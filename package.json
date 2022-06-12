@@ -1,0 +1,22 @@
+{
+  "name": "duo-client-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HsienYu/DUO-client-example.git"
+  },
+  "dependencies": {
+    "@duosecurity/duo_api": "^1.2.3"
+  },
+  "author": "chenghsienyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HsienYu/DUO-client-example/issues"
+  },
+  "homepage": "https://github.com/HsienYu/DUO-client-example#readme"
+}
