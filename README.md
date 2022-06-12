@@ -1,6 +1,6 @@
 # DUO-client-example
 
-## Usage & Run##
+## Usage & Run ##
 
 ##### install #####
 ``` npm i ```
